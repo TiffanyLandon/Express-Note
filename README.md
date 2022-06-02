@@ -1,5 +1,5 @@
-#Note Taker
-#Description
+Note Taker
+Description
 
 This application allows users to create, and save. This application uses an Express.js back end that saves and retrieves note data from the db.json file.
 Installing
